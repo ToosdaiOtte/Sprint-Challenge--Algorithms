@@ -2,13 +2,13 @@
 
 ## Exercise I
 
-a)
+a) O(n) - loop will take longer to finish as n increases
 
 
-b)
+b) O(n^2) - there is a loop within a loop
 
 
-c)
+c) O(n) - recursive so dependent on number of inputs
 
 ## Exercise II
 
